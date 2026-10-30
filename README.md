@@ -85,15 +85,17 @@ Exploring data extraction, processing, analysis, and visualization with Python a
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aymenichqa&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=aymenichqa&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenichqa&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aymenichqa&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
