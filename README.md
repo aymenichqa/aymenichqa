@@ -3,7 +3,7 @@
 
 # Hey, I'm Aymen 👋
 
-### Data & AI Engineering Student @ EMSI
+### Data & AI Engineering Student 
 
 📍 Casablanca, Morocco
 
