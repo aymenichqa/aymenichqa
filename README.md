@@ -3,9 +3,7 @@
 
 # Hey, I'm Aymen 👋
 
-### Data & AI Engineering Student
-
-*Curious mind. Constant learner. Builder of things.*
+### Data & AI Engineering Student @ EMSI
 
 📍 Casablanca, Morocco
 
@@ -17,20 +15,11 @@
 
 ---
 
-## 🧠 A little about me
+## 👨‍💻 About Me
 
-I'm an engineering student passionate about **Data, Artificial Intelligence, and software development**.
+Data & AI engineering student at EMSI, based in Casablanca.
 
-I enjoy understanding how things work, experimenting with new technologies, and turning ideas into practical projects.
-
-My interests are mainly around:
-
-- Building useful AI-powered applications.
-- Exploring LLMs, RAG systems, and multi-agent architectures.
-- Discovering patterns and insights through machine learning.
-- Developing tools that solve real-world problems.
-
-I believe the best way to learn is to build, experiment, and keep improving.
+Interested in Machine Learning, Natural Language Processing, and Generative AI. Mostly working with Python, exploring AI technologies, and building projects along the way.
 
 ---
 
@@ -67,42 +56,48 @@ I believe the best way to learn is to build, experiment, and keep improving.
 
 ---
 
-## 🚀 Things I've built
-
-### 🤖 Multi-Agent System
-Experimenting with multi-agent workflows using LangGraph and LLMs to automate complex tasks.
-
-### 📚 RAG Document Assistant
-A document retrieval pipeline using Python, FAISS, Sentence-BERT, and Ollama.
+## 🚀 Projects & Experience
 
 ### 🌍 SentimentsLoupe
-A multilingual sentiment analysis project comparing traditional machine learning with XLM-RoBERTa.
 
-### 📊 Data & Visualization Projects
-Exploring data extraction, processing, analysis, and visualization with Python and Power BI.
+**Public Project**
 
-*More experiments and projects coming soon.*
+A multilingual sentiment analysis application comparing traditional machine learning (TF-IDF) with XLM-RoBERTa.
+
+Includes cross-domain evaluation and an interactive Streamlit dashboard.
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/aymenichqa/SentimentsLoupe)
+
+### 🤖 Multi-Agent Systems
+
+Experience with LangGraph and LLM-based multi-agent workflows, focusing on task orchestration and automation.
+
+### 📚 Retrieval-Augmented Generation (RAG)
+
+A document retrieval pipeline built with Python, FAISS, Sentence-BERT, and Ollama, covering document processing, embeddings, vector search, and retrieval evaluation.
+
+### 📊 Data & Visualization
+
+Projects involving data extraction, processing, analysis, and visualization using Python and Power BI.
 
 ---
 
-
-## 📊 GitHub Statistics
+## 📫 Connect With Me
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=aymenichqa&show_icons=true&theme=tokyonight&hide_border=true" />
+[![GitHub](https://img.shields.io/badge/GitHub-aymenichqa-181717?style=flat-square&logo=github)](https://github.com/aymenichqa)
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aymenichqa&layout=compact&theme=tokyonight&hide_border=true" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymen%20Ichqarrane-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aymen-ichqarrane/)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aymenichqarane@gmail.com)
 
 </div>
 
-
 ---
 
 <div align="center">
 
-### 🌱 Always learning. Always building.
-
-*Thanks for stopping by!*
+*Thanks for visiting my profile.*
 
 </div>
