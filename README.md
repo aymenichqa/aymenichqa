@@ -94,6 +94,8 @@ Projects involving data extraction, processing, analysis, and visualization usin
 
 </div>
 
+> 💬 Several of my projects are built with my teammate [Ihssane](https://github.com/Ihssanemoutchou), go check out her profile too!
+
 ---
 
 <div align="center">
