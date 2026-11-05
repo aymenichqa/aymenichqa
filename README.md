@@ -94,9 +94,15 @@ Projects involving data extraction, processing, analysis, and visualization usin
 
 </div>
 
-> 💬 Several of my projects are built with my teammate [Ihssane](https://github.com/Ihssanemoutchou), go check out her profile too!
-
 ---
+
+## 🤝 Collaboration
+
+### 👥 Teamwork
+
+I enjoy working in a team, and I have built several projects in partnership with **Ihssane Moutchou**, from data processing and model development to evaluation and delivery.
+
+[![Ihssane Moutchou](https://img.shields.io/badge/GitHub-Ihssane%20Moutchou-181717?style=for-the-badge&logo=github)](https://github.com/Ihssanemoutchou)
 
 <div align="center">
 
